@@ -1,1 +1,2 @@
-
+AI for playing TicTacToe using minimax algorithm. To run the game just run runner.py on a Python3 interpreter with the pygame package installed.
+This is a project for Harvard online course: CS50's Introduction to Artificial Intelligence with Python, all the files except tictactoe.py were not created by me.
